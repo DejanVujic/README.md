@@ -41,6 +41,12 @@ These are the technologies I'm currently learning and using during my training.
 
 ## ⚙️ From workshop to workspace
 
+<img
+  src="https://raw.githubusercontent.com/DejanVujic/DejanVujic/main/craft-meets-code.svg?v=2"
+  alt="Animierte Zahnräder — Craft meets code"
+  width="100%"
+/>
+
 | What I bring | How I apply it |
 | :--- | :--- |
 | 🔎 Attention to detail | Implementing features with care |
@@ -97,4 +103,3 @@ Thanks for visiting my workbench. 👋
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:123b53,100:22d3ee&height=100&section=footer" width="100%" alt="Decorative blue and turquoise footer" />
 
 </div>
-
