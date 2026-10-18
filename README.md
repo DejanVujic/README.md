@@ -1,6 +1,3 @@
-Kopiere den gesamten Inhalt dieses Codeblocks in deine **README.md** auf GitHub. Über **Preview** kannst du dir das Ergebnis ansehen, bevor du mit **Commit changes** speicherst.
-
-```markdown
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:123b53,100:22d3ee&height=220&section=header&text=Dejan%20Vujic&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=From%20precision%20engineering%20to%20precise%20code.&descSize=17&descAlignY=60" width="100%" alt="Dejan Vujic — From precision engineering to precise code" />
@@ -63,6 +60,22 @@ A personal introduction on the web — and a place to follow my journey.
 
 [![Visit my business card](https://img.shields.io/badge/Open_Digital_Business_Card_%E2%86%97-22d3ee?style=for-the-badge&logo=googlechrome&logoColor=0d1117)](https://dejanvujic.developerakademie.net/Visitenkarten/Version%204/)
 
+
+### 🐍 GitHub Activity Graph
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/DejanVujic/README.md/output/github-snake-dark.svg"
+  />
+  <img
+    alt="Meine GitHub-Beiträge als animierte Schlange"
+    src="https://raw.githubusercontent.com/DejanVujic/README.md/output/github-snake.svg"
+    width="100%"
+  />
+</picture>
+
+
 ## 📊 My GitHub workbench
 
 <div align="center">
@@ -84,4 +97,4 @@ Thanks for visiting my workbench. 👋
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:123b53,100:22d3ee&height=100&section=footer" width="100%" alt="Decorative blue and turquoise footer" />
 
 </div>
-```
+
