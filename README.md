@@ -1,8 +1,11 @@
+Kopiere den gesamten Inhalt dieses Codeblocks in deine **README.md** auf GitHub. Über **Preview** kannst du dir das Ergebnis ansehen, bevor du mit **Commit changes** speicherst.
+
+```markdown
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:123b53,100:22d3ee&height=220&section=header&text=Dejan%20Vujic&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=From%20precision%20engineering%20to%20precise%20code.&descSize=17&descAlignY=60" width="100%" alt="Dejan Vujic — From precision engineering to precise code" />
 
-[![Typing introduction](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=3200&pause=1000&color=22D3EE&center=true&vCenter=true&width=680&lines=Hi%2C+I'm+Dejan.+Welcome+to+my+workbench.;Master+craftsman+turned+developer+in+training.;Building+skills.+Connecting+systems.;A+different+toolbox.+The+same+curiosity.)](https://github.com/DejanVujic)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=3200&pause=1000&color=22D3EE&center=true&vCenter=true&width=680&lines=Hi%2C+I'm+Dejan.+Welcome+to+my+workbench.;Master+craftsman+turned+developer+in+training.;Building+skills.+Connecting+systems.;A+different+toolbox.+The+same+curiosity." width="100%" alt="Welcome to my workbench. A different toolbox. The same curiosity." />
 
 ![Fullstack developer in training](https://img.shields.io/badge/Fullstack-Developer_in_Training-22d3ee?style=for-the-badge&labelColor=0d1117)
 ![Master craftsman](https://img.shields.io/badge/Background-Master_Craftsman-38bdf8?style=for-the-badge&labelColor=0d1117)
@@ -20,14 +23,14 @@ My journey started in **devices and precision engineering**, where I worked as a
 
 I enjoy understanding how things work, finding the cause of a problem, and bringing the pieces together. Software development gives me a new way to do that — building digital solutions with the same care I brought to physical systems.
 
-```text
+<pre>
 MY WORKBENCH
 │
-├── Foundation    Precision engineering & craftsmanship
+├── Foundation    Precision engineering &amp; craftsmanship
 ├── Direction     Fullstack software development
 ├── Learning      HTML · CSS · JavaScript · Python
 └── Mindset       Understand → Build → Test → Improve
-```
+</pre>
 
 ## 🛠️ My growing toolbox
 
@@ -68,8 +71,6 @@ A personal introduction on the web — and a place to follow my journey.
 
 </div>
 
-<!-- Statistics and animated header elements are provided by external services. -->
-
 ---
 
 <div align="center">
@@ -83,3 +84,4 @@ Thanks for visiting my workbench. 👋
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:123b53,100:22d3ee&height=100&section=footer" width="100%" alt="Decorative blue and turquoise footer" />
 
 </div>
+```
